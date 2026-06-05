@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const settings = {
     lensImageURL: "./assets/images/8.jpg",
     glaresPerLens: 2,
-    finalZoomScale: 22,
+    finalZoomScale: 20,
     zoomFocusPoint: "47% 21%",
   };
 
