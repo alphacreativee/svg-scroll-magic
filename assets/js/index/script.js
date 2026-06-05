@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const SVG_NAMESPACE = "http://www.w3.org/2000/svg";
   const XLINK_NAMESPACE = "http://www.w3.org/1999/xlink";
   const settings = {
-    lensImageURL: "./assets/images/1.jpg",
+    lensImageURL: "./assets/images/8.jpg",
     glaresPerLens: 2,
     finalZoomScale: 22,
     zoomFocusPoint: "47% 21%",
